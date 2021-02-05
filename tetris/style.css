@@ -6,6 +6,12 @@ body {
     height: 100%;
 }
 
+.home {
+    position: absolute;
+    top: 10pt;
+    left: 10pt;
+}
+
 .header {
     margin: 75px 0;
 }
@@ -27,7 +33,8 @@ button {
 
 .gridContainer {
     display: inline-flex;
-    margin: auto;
+    margin: 10vh auto;
+
 }
 
 .test {

@@ -1,0 +1,45 @@
+body {
+    background-color:rgb(42, 43, 48);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14pt;
+}
+
+.home {
+    position: absolute;
+    top: 10pt;
+    left: 10pt;
+}
+
+.parent-div {
+    margin: 10% auto; 
+}
+
+.hex-result {
+    top: 25vh;
+    margin: 0 auto;
+    margin-bottom: 5vh;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    overflow: visible;
+}
+
+.hex-input {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.generate-hex {
+    margin: 1em auto;
+    text-align: center;
+}
+
+input {
+    font-size: 15pt;
+    background-color:rgb(42, 43, 48);
+    border-style: solid;
+    border-color: #999999;
+    color: #cccccc;
+    text-align: center;
+    width: 5em;
+}
